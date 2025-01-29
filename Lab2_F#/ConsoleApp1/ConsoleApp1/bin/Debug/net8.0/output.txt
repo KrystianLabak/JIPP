@@ -1,0 +1,6 @@
+Linia1
+Linia2
+Linia3
+to jest przykladowy tesktLinia1
+Linia2
+Linia3

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZ0sErV82Ic=",
+  "success": true,
+  "projectFilePath": "F:\\JIPP\\Lab2_F#\\ConsoleApp1\\ConsoleApp1\\Zad1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w68962\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
